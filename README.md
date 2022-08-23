@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghurabaa-Online
+- 👋 Hi, I’m Edwin
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Software Engineering at ALX.
 - 💞️ I’m looking to collaborate on the projects that will build my coding muscles.
